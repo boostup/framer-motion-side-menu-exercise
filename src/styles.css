@@ -43,11 +43,6 @@ button {
   background: white;
 }
 
-button svg {
-  top: 4px;
-  position: relative;
-}
-
 ul,
 li {
   margin: 0;
